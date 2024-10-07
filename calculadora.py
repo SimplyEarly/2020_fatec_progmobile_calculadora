@@ -1,3 +1,3 @@
-def somar(a, b):
-    print(f"Somando {a} + {b}")
-    return a + b
+def somar(operando1, operando2):
+    print(f"Somando {operando1} + {operando2}")
+    return operando1 + operando2
